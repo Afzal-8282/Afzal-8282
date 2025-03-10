@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afzal Ansari.
 - 👀 I’m interested in web app development.
-- 🌱 I’m currently learning MERN Stack Development Technologies.
+- 🌱 I’m currently learning Backend Development.
 
 
 
