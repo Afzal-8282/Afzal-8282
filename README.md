@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afzal Ansari.
-- 👀 I’m interested in web app development.
-- 🌱 I’m having hands on experience working with tech stacks such as Next js, Nest js, React js, Tailwindcss, Express js, Node js, Databases ( Postgres Sql, MongoDB )
+- 👀 I’m interested in Frontend development.
+- 🌱 I’m having hands on experience working with tech stacks such as Javascript, Typescript, React js, Shadcn UI and many more. 
 
 
 
